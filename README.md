@@ -1,5 +1,9 @@
 ![snake gif](https://github.com/ssseok/ssseok/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+
 <div>
-https://github-readme-stats.vercel.app/api?username=ssseok
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=danmin20)
+
 </div>
