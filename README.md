@@ -2,8 +2,3 @@
 
 <br>
 
-<div>
-  
-  ![github stats](https://github-readme-stats.vercel.app/api?username=ssseok)
-
-</div>
