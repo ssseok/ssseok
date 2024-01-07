@@ -1,3 +1,5 @@
+![snake gif](https://github.com/ssseok/ssseok/blob/output/github-contribution-grid-snake.svg)
+
 # 박현석 *Park Hyun Seok*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssseok&label=Profile%20views&color=0e75b6&style=flat" alt="ssseok" /> </p>
